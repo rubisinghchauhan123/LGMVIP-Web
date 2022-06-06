@@ -1,0 +1,80 @@
+body {
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(Desktop\pngtree-creative-simple-background-wall-picture-image_371930.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    position: relative;
+    height: 500px;
+    left: 5px;
+
+}
+
+.heder {
+    height: 500px;
+    width: 100%;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.uBljcX9G8GrYPNxypimesQHaEo&pid=Api&P=0&w=290&h=181);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    border-bottom: 4px solid black;
+    padding-top: 50px;
+    font-size: 70px;
+    color: rgba(89, 0, 255, 0.719);
+    text-shadow: aqua;
+
+}
+
+.btn {
+    position: absolute;
+    top: 60px;
+    right: 20px;
+}
+
+button {
+    color: black;
+    font-weight: bold;
+    height: 40px;
+    width: 150px;
+    background-image: linear-gradient(whitesmoke);
+    border-radius: 10px;
+}
+
+#data {
+    width: 99%;
+    height: 450px;
+    text-align: right;
+    justify-content: center;
+    display: flex;
+
+}
+
+.table {
+    width: 800px;
+
+}
+
+table {
+    color: whitesmoke;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 700;
+
+}
+
+table tr :hover {
+    background-color: #AED581;
+
+}
+
+img {
+    clip-path: circle();
+}
+
+.welcome {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(115, 236, 39);
+    padding-top: 70px;
+}
